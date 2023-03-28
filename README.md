@@ -4,7 +4,7 @@
 
 >Life is like riding a bicycle. To keep your balance, you must keep moving.
 
-:railway_track: :sunglasses: I'm a 23 year old man who is into computers and wants to create applications. 
+:railway_track: :sunglasses: I'm a 25 year old man who is into computers and wants to create applications. 
 
 - 👨‍🎓 I’m participating in SoftUni Bootcamp until mid January 2022.
 - 🎯 My main goal is to complete my SoftUni journey and become a Full-Stack C# Developer and try out all Tech Stacks like MEVN ( Mongo + Express + Vue + Node.js) :pancakes:
