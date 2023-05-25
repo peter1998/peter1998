@@ -22,6 +22,7 @@
 
 - You can find me on [LinkedIn](https://www.linkedin.com/in/peter-matov-5b7166227/)
 - You can add me on [Facebook](https://www.facebook.com/pmatov/)
+- Let's communicate here about Data Science [Kaggle](https://www.kaggle.com/petermatov)
 - And enjoy my nature TrailCameras with rare species from wildlife Bulgaria [YouTube](https://www.youtube.com/channel/UCV3HPMkEF6SsOOJnji2i7kA)
 - If you wish to contact me via email, you can send one at pmatov@gmail.com
 
